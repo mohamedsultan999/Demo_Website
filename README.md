@@ -5,3 +5,4 @@ My first project in my working life outside of University
 utf8 for any language 
 
 ## project notes 
+s
